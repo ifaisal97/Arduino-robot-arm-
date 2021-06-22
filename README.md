@@ -10,7 +10,7 @@ assembly
 اولا تثبيتbase القاعدة 
 
 
-ثم constraine insert لكل قطة 
+ثم constrain insert لكل قطة 
 
 
 
