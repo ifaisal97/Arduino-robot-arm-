@@ -1,5 +1,5 @@
 # Arduino-robot-arm-
-assembly
+assembly 
 
 
 
@@ -11,3 +11,15 @@ assembly
 
 
 ثم constraine insert لكل قطة 
+
+
+
+
+end effector 
+
+
+
+تم تصميم وصلة اخرى بين الذراع و end effectore 
+
+
+بشكل بسيط بطول 60ملم وعرض 40ملم ويحتوي على 5 اجزاء كل جزء بلون مختلف  
